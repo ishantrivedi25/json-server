@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jami",
+      "surname": "Pheonix",
+      "email": "jami@example.com",
+      "phone_number": "123123123",
+      "active": "false",
+      "action": "1"
+    }
+  ]
+}
